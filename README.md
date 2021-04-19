@@ -9,3 +9,4 @@ Estudo machine learning
 Exemplos:
 - SVM (Support Vector Machines)
 - PCA (Principal Component Analysis)
+- Autoencoder (semi-supervisionado) - Exemplo: https://github.com/slekecinskas/ML_anomaly_autoencoder
