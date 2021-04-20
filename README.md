@@ -6,8 +6,8 @@
 - O que seria Regressão e Classificação
 - Supervisionado e não supervisionado
 
-Exemplos:
-- SVM (Support Vector Machines)
+Exemplos algoritmos de ML:
+- SVM (Support Vector Machines) - Supervisionado
 - PCA (Principal Component Analysis)
 
 - Autoencoder (semi-supervisionado) - Exemplo: <a href="https://github.com/slekecinskas/ML_anomaly_autoencoder">ML_autoencoder</a>
