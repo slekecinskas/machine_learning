@@ -7,7 +7,7 @@
 - Supervisionado e não supervisionado
 
 Exemplos algoritmos de ML:
-- SVM (Support Vector Machines) - Supervisionado
+- SVM (Support Vector Machines) - Supervisionado - Exemplo: <a href="https://github.com/slekecinskas/ML_SVN">ML_SVN</a>
 - PCA (Principal Component Analysis)
 
 - Autoencoder (semi-supervisionado) - Exemplo: <a href="https://github.com/slekecinskas/ML_anomaly_autoencoder">ML_autoencoder</a>
