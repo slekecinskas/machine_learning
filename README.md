@@ -5,6 +5,7 @@
 
 - O que seria Regressão e Classificação
 - Supervisionado e não supervisionado
+- Aprendizado por reforço
 
 Exemplos algoritmos de ML:
 - SVM (Support Vector Machines) - Supervisionado - Exemplo: <a href="https://github.com/slekecinskas/ML_SVN">ML_SVN</a>
